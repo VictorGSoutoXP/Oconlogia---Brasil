@@ -6,7 +6,7 @@
 
 ---
 
-Em março de 1999, eu tinha seis meses. Estava com pneumonia. O raio-x do tórax pegou também o abdômen e mostrou uma massa do tamanho de uma laranja — palavra do meu avô, que viu a chapa antes do médico explicar o que era. Era um neuroblastoma.
+Em março de 1999, eu tinha seis meses. Estava com pneumonia. O raio-x do tórax pegou também o abdômen e mostrou uma massa do tamanho de uma laranja — palavra do meu avô. Era um neuroblastoma.
 
 Cirurgia de remoção do tumor, quimioterapia no Instituto da Criança do Hospital das Clínicas em São Paulo, quatro anos de tratamento ativo, e depois mais quatorze anos de acompanhamento anual no ICESP até a alta médica aos dezoito. Estou escrevendo isso aos 27 anos.
 

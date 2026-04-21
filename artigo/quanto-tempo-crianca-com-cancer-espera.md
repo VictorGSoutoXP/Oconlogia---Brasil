@@ -1,4 +1,3 @@
-
 # Quanto tempo uma criança com câncer espera no Brasil?
 
 ### E o que o SUS sabe — ou não sabe — sobre o tratamento de 81 mil crianças e adolescentes brasileiros.
@@ -41,7 +40,7 @@ Olhando para esses 36.881 casos com informação completa, 5.129 crianças esper
 
 Mas a média nacional esconde o que está embaixo dela. Quando o número é quebrado por estado, a desigualdade aparece:
 
-![Gráfico 1: Câncer pediátrico no Brasil — desigualdade no cumprimento da Lei 12.732/2012, por UF](pct_atraso_por_uf.png)
+![Gráfico 1: Câncer pediátrico no Brasil — desigualdade no cumprimento da Lei 12.732/2012, por UF](../graficos/pct_atraso_por_uf.png)
 
 Sergipe lidera o atraso: quase três em cada dez crianças diagnosticadas com câncer no estado começaram o tratamento fora do prazo legal. Rio de Janeiro vem logo em seguida, com mais de uma em cada cinco. No outro extremo, Mato Grosso do Sul cumpre a lei em mais de 91% dos casos.
 
@@ -65,7 +64,7 @@ Quando o Ministério da Saúde divulga estatísticas sobre o cumprimento da Lei 
 
 E o furo varia muito de estado para estado:
 
-![Gráfico 2: Quão completo é o registro de tratamento oncológico pediátrico por UF](completude_por_uf.png)
+![Gráfico 2: Quão completo é o registro de tratamento oncológico pediátrico por UF](../graficos/completude_por_uf.png)
 
 Acre tem registro completo para 81% dos casos. Tocantins, para 26%. Entre os dois extremos, 55 pontos percentuais de diferença.
 
@@ -89,7 +88,7 @@ A Agência Nacional de Saúde Suplementar (ANS) publica dados abertos sobre quan
 
 Se a hipótese do tratamento privado fosse verdadeira, os estados com mais cobertura de plano deveriam ter mais "sem informação" no SUS, porque as crianças teriam sumido para a rede privada. O gráfico abaixo testa essa hipótese:
 
-![Gráfico 3: Tratamento privado explica a "falta de info" do SUS?](ans_vs_completude.png)
+![Gráfico 3: Tratamento privado explica a "falta de info" do SUS?](../graficos/ans_vs_completude.png)
 
 A correlação entre cobertura privada e falta de informação no SUS é de 0,02. Estatisticamente, é zero. Não há relação.
 
@@ -171,6 +170,9 @@ Todas as análises deste texto foram feitas com dados públicos e código aberto
 - PAINEL-Oncologia (DATASUS / Ministério da Saúde) — tempo até o início do tratamento oncológico. Acessado via tabnet.datasus.gov.br.
 - ANS TABNET (Agência Nacional de Saúde Suplementar) — taxa de cobertura de planos de saúde por UF e faixa etária. Acessado via www.ans.gov.br/anstabnet.
 - Lei 12.732 de 22 de novembro de 2012.
+
+**Código e dados:**
+O repositório com todo o código Python, os arquivos CSV brutos e os gráficos gerados está disponível publicamente em: https://github.com/VictorGSoutoXP/Oconlogia---Brasil
 
 Licença: código sob MIT, texto sob Creative Commons BY-SA 4.0. Use, adapte, replique, critique, melhore.
 

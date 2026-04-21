@@ -2,7 +2,7 @@
 
 ### E o que o SUS sabe — ou não sabe — sobre o tratamento de 81 mil crianças e adolescentes brasileiros.
 
-*Por Victor Gonçalves Souto · Consultoria Souto · Abril de 2026*
+*Por Victor Gonçalves Souto ·  Souto Consultoria · Abril de 2026*
 
 ---
 

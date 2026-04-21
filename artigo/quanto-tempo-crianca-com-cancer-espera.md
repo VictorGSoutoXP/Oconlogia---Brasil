@@ -1,4 +1,3 @@
-Antes de publicar preciso corrigir no github preciso corrigir:
 
 # Quanto tempo uma criança com câncer espera no Brasil?
 

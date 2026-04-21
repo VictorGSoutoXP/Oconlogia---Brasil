@@ -155,7 +155,7 @@ Críticas técnicas legítimas serão incorporadas nas próximas versões com cr
 Se você usar este trabalho em pesquisa, divulgação ou política pública, cite:
 
 ```
-Souto, V. G. (2026). Quanto tempo uma criança com câncer espera no Brasil?
+Victor Gonçalves Souto (2026). Quanto tempo uma criança com câncer espera no Brasil?
 Souto Consultoria, abril de 2026.
 Disponível em: https://github.com/VictorGSoutoXP/oncologia-pediatrica-brasil
 ```

@@ -181,4 +181,4 @@ Encontrou um erro? Tem uma análise adicional para sugerir? Trabalha com oncolog
 
 Este texto será atualizado conforme novas análises forem feitas e conforme críticas legítimas forem incorporadas.
 
-**Versão atual:** 1.0 — abril de 2026
+**Versão atual:** 1.0 — 20 de abril de 2026.
